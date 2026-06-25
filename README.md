@@ -2,7 +2,7 @@
 About
 SafeCrowdAI is an advanced AI-driven crowd management solution designed to prevent disasters in public gatherings through real-time people counting, emotion monitoring, and automated early warnings. By combining computer vision, audio analysis, and IoT integration, SafeCrowdAI empowers venue managers, authorities, and event organizers to detect and respond to hazardous situations—before they become critical.
 
-# Main Features
+# Main Features:
 🎥 Real-Time People Counting: Uses CCTV feeds and intelligent computer vision to monitor crowd density and movements.
 
 🔊 Audio Emotion Analysis: Integrates Whisper API and emotion detection to sense panic, agitation, or conflict from crowd sounds.
